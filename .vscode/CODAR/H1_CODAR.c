@@ -18,9 +18,9 @@ if (temperatura > 30){
 }
 
     if (umidade > 50){
-        printf ("umidade elevada\n");
+        printf ("Umidade elevada\n");
     } else {
-        printf ("umidade está dentro dos parâmetros\n");
+        printf ("Umidade está dentro dos parâmetros\n");
     }
 
 if (estoque < estoqueminimo){
